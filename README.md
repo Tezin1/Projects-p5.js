@@ -1,2 +1,2 @@
-# Games-Scratch
-Games made with Scratch 
+# Projects-p5.js
+Projects made using **javascript**  
